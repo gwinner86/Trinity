@@ -12,6 +12,7 @@ Is a worker service that access API's to retrieves the floors and the sensors pe
 After cloning or adding remote origin url:
 
 - Run `dotnet restore` to restore dpendent dotnet packages.
+- Install EF Core by running `dotnet tool install --global dotnet-ef`.
 - After restoring packages, run `dotnet ef` to confirm that dotnet entity core framework is installed.
 - Run `dotnet ef add-migration` to create a local database in your mysql instance.
 - Run `dotnet ef update-database` to update your local database.
