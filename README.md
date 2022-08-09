@@ -5,7 +5,7 @@ Is a worker service that access API's to retrieves the floors and the sensors pe
 
 - **.NET CORE**: Version .NET 5
 - **XAMPP**: V3.2.4
-  **MySQL**: 10.4.17-MariaDB
+- **MySQL**: 10.4.17-MariaDB
 
 ## Installation
 
